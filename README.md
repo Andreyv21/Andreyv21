@@ -20,7 +20,7 @@ I also run a **Telegram channel** where I share market insights, personal succes
 - 🔗 [My Solana Validator](https://stakewiz.com/validator/89DXJe6XTDASsmyXJoPyRetLq1csRj9N2Bwn67fNvYGt)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andreyv21&show_icons=true&theme=radical)
 
 ---
 💡 **Always learning, always building.**
